@@ -1,9 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Laura Arevalo | Data Manager'
+languageCode = 'es-ES'
+title = 'Laura Arevalo | Data Engineer'
 theme = 'introduction'
 
 [params]
-    showMenu = false
+    showMenu = true
     themeStyle = "auto"
-    customCSS = ["customCSS.css"]

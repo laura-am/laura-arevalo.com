@@ -6,7 +6,7 @@ _build:
   publishResources: false
 ---
 
-Ayudo a emprendedores/as, empresas y equipos con solamente dos servicios:
+Ayudo a emprendedores/as, empresas y equipos a través de dos servicios:
 
 💡  Diseño y automatización del proceso ETL/ELT de su proyecto.  
 🔧  Integración de las fuentes de datos y optimización de sus bases de datos.
