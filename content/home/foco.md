@@ -4,13 +4,16 @@ _build:
   render: never
   list: never
   publishResources: false
+weight: 2
 ---
 
-Ayudo a emprendedores/as, empresas y equipos a través de dos servicios:
+Ayudo a emprendedores/as, empresas y equipos centrando la atención en:
 
-💡  Diseño y automatización del proceso ETL/ELT de su proyecto.  
-🔧  Integración de las fuentes de datos y optimización de sus bases de datos.
+💡  El diseño y automatización de sus principales procesos de trabajo.
+🔧  La integración de sus fuentes de datos y la optimización de sus bases de datos.
 
-El enfoque no está en una especialización de los servicios, sino en considerarlos estratégicamente. Centrando mi conocimiento y mi tiempo en estos dos ítems, puedo ofrecer las herramientas más adecuadas para que el negocio pueda iniciar su proceso de creación de valor a partir de los datos en sus primeras etapas. Se trata de **garantizar la calidad del dato primero, para tomar decisiones más consistentes y efectivas después**.
+Este enfoque no consiste en una especialización de los servicios, sino en su valoración estratégica. Centrando mi conocimiento y mi tiempo en estos dos ítems, puedo ofrecer las herramientas más adecuadas para **garantizar la calidad del dato sin sacrificar tiempo y recursos por el camino**.
+
+
 
 

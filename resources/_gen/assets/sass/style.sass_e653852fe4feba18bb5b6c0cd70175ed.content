@@ -13347,6 +13347,56 @@ details[open] summary {
   .markdown figcaption > h4 {
     font-size: 0.8rem; }
 
+/* SHORTCODES STYLES */
+.dotted-box {
+  border: 1px dotted #555a;
+  padding: 12px;
+  margin: 16px 0;
+  border-radius: 0;
+  box-shadow: 2px 2px 6px 1px #aaa;
+  text-align: center; }
+
+.contact-section {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto; }
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; }
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem; }
+
+.form-group input,
+.form-group textarea {
+  padding: 0.5rem;
+  border: none;
+  border-bottom: 2px solid #4a4a4a;
+  background-color: transparent;
+  color: #4a4a4a; }
+
+.form-group textarea {
+  min-height: 70px; }
+
+button {
+  padding: 0.75rem 1.5rem;
+  background-color: #eee;
+  color: #222;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.1rem; }
+
+button:hover {
+  background-color: #222;
+  color: #eee;
+  border: 1px solid #fff; }
+
 .modal-background {
   background-color: rgba(255, 255, 255, 0.9); }
 
@@ -23607,6 +23657,48 @@ readers do not read off random characters that represent icons */
       text-align: center; }
     .markdown figcaption > h4 {
       font-size: 0.8rem; }
+  /* SHORTCODES STYLES */
+  .dotted-box {
+    border: 1px dotted #555a;
+    padding: 12px;
+    margin: 16px 0;
+    border-radius: 0;
+    box-shadow: 2px 2px 6px 1px #aaa;
+    text-align: center; }
+  .contact-section {
+    padding: 2rem;
+    max-width: 600px;
+    margin: 0 auto; }
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem; }
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem; }
+  .form-group input,
+  .form-group textarea {
+    padding: 0.5rem;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff; }
+  .form-group textarea {
+    min-height: 70px; }
+  button {
+    padding: 0.75rem 1.5rem;
+    background-color: #eee;
+    color: #222;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.1rem; }
+  button:hover {
+    background-color: #222;
+    color: #eee;
+    border: 1px solid #fff; }
   .modal-card-title {
     color: #008AD7; }
   .modal-card-body {
