@@ -3,9 +3,14 @@
     {{ with .Site.Params.footerText }}
         {{ . | markdownify }}
     {{ else }}
-        <span class="footer-text">
-            {{ i18n "footer_text" . | markdownify }}
-        </span>
+        <p class="footer-text">
+            © Laura Arévalo <span id="currentYear"></span>.
+            <strong><a href="https://github.com/victoriadrake/hugo-theme-introduction/">Introduction</a></strong> theme for <a href="http://gohugo.io/">Hugo</a> made by open sources contributors. 
+        </p>
     {{ end }}
     </div>
 </div>
+
+<script>
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+</script>
