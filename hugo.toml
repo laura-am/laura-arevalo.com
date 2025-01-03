@@ -1,7 +1,7 @@
 baseURL = 'https://laura-arevalo.com/'
 languageCode = 'es-ES'
 title = 'Laura Arevalo | Data Engineer'
-theme = 'introduction'
+theme = ''
 
 [params]
     showMenu = true
