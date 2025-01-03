@@ -47,7 +47,7 @@ Las herramientas necesarias ya existen en el mercado; ese aspecto está cubierto
 > ***La herramienta correcta no solo simplifica, te da control sobre tus procesos de negocio***  
 
 En un mercado con numerosas herramientas de integración disponibles, la clave está en saber elegir la adecuada. Para tomar esta decisión de forma efectiva, es importante considerar:    
-👉 **Conocer nuestros procesos.** Detectar aquellas tareas que puedan ser parcial o totalmente automatizadas. 
+👉 **Conocer nuestros procesos.** Detectar aquellas tareas que puedan ser parcial o totalmente automatizadas.  
 👉 **Diseñar un flujo de trabajo eficiente.** Un diseño bien pensado permite que los datos fluyan de manera coherente y escalable.  
 👉 **Entender las herramientas disponibles y su compatibilidad con nuestras necesidades.** Esto puede ser un reto en tiempo y esfuerzo, pero con mi ayuda y guía podrás descubrir el increíble potencial que ofrecen.
 

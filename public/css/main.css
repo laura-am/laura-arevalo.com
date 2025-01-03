@@ -1168,6 +1168,9 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   .has-text-right-fullhd {
     text-align: right !important; } }
 
+.has-text-justified {
+  hyphens: auto; }
+
 .is-capitalized {
   text-transform: capitalize !important; }
 
@@ -13349,11 +13352,11 @@ details[open] summary {
 
 /* SHORTCODES STYLES */
 .dotted-box {
-  border: 1px dotted #555a;
+  border: 1px solid #555a;
   padding: 12px;
-  margin: 16px 0;
+  margin: 24px 0;
   border-radius: 0;
-  box-shadow: 2px 2px 6px 1px #aaa;
+  box-shadow: 2px 2px 1px 1px #aaa;
   text-align: center; }
 
 .contact-section {
@@ -14353,6 +14356,8 @@ button:hover {
     text-align: right !important; } }
 
 @media (prefers-color-scheme: dark) {
+  .has-text-justified {
+    hyphens: auto; }
   .is-capitalized {
     text-transform: capitalize !important; }
   .is-lowercase {
@@ -23659,11 +23664,11 @@ readers do not read off random characters that represent icons */
       font-size: 0.8rem; }
   /* SHORTCODES STYLES */
   .dotted-box {
-    border: 1px dotted #555a;
+    border: 1px solid #555a;
     padding: 12px;
-    margin: 16px 0;
+    margin: 24px 0;
     border-radius: 0;
-    box-shadow: 2px 2px 6px 1px #aaa;
+    box-shadow: 2px 2px 1px 1px #aaa;
     text-align: center; }
   .contact-section {
     padding: 2rem;
