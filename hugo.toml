@@ -6,3 +6,7 @@ theme = ''
 [params]
     showMenu = true
     themeStyle = "auto"
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']
