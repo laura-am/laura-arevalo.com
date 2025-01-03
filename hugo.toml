@@ -10,3 +10,15 @@ theme = ''
 [security]
   [security.funcs]
     getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']
+
+[build]
+  noJSConfigInAssets = false
+  useResourceCacheWhen = 'fallback'
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = false
+  [[build.cacheBusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = '(css|styles|scss|sass)'
