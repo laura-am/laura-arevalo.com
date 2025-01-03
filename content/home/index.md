@@ -1,6 +1,5 @@
 ---
 title: "Hola, soy Laura Arévalo."
-draft: true
 weight: 0
 headless: true
 ---
