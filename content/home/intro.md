@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{< dotted-box >}}
-Me llamo Laura y sé un poco de interrogar datos, de construir aplicaciones, y de automatizar esas tareas que, aunque necesarias, no son lo que más {{< strike >}}nos divierten{{< /strike >}} valor generan en el día a día. Pero lo que más me fascina es <strong>OPTIMIZAR</strong>.
+Me llamo Laura y sé un poco de interrogar datos, de construir aplicaciones, y de automatizar esas tareas que, aunque necesarias, no son lo que más {{< strike >}}nos divierten{{< /strike >}}  valor generan en el día a día. Pero lo que más me fascina es <strong>OPTIMIZAR</strong>.
 {{< /dotted-box >}}
 
 Confieso que siento una pulsión casi obsesiva por gestionar los recursos de forma eficiente. Aunque también hay un poco de placer en el diseño del proceso, entendiendo éste como espacio ideal donde creación y optimización se encuentran.
@@ -18,16 +18,16 @@ Así, ni corta ni perezosa, un año más tarde cometí la temeridad de abandonar
 
 ##### 80-15-5
 
-En mi trabajo había podido observar que, aproximadamente, el 80% de mi tiempo estaba dedicado a la extracción y procesamiento de datos. Y empleaba gran cantidad de tiempo porque no existía un marco de trabajo bien definido. Muchos procesos no tenían una estructura clara o la integración entre fuentes era limitada. Algo usual al inicio de la actividad o cuando al sector le falta maduración. En conclusión, **el flujo de trabajo se complicaba y se volvía lento y poco eficiente**. 
+En mi trabajo he podido observar que la mayor parte del tiempo (digamos, el 80%) estaba dedicado a la extracción y procesamiento de datos. Parte de la causa es la falta de un marco de trabajo bien definido. Muchos procesos no tienen una estructura clara o la integración entre fuentes es limitada, sobre todo, al inicio de la actividad o cuando al sector le falta maduración, y nos encontramos desarrollando nuestro trabajo iterando continuamente. En conclusión, **el flujo de trabajo se complica, se vuelve lento y poco eficiente**. 
 
 Como ingeniera reconozco que me encanta esta parte del trabajo, pero no es lo más interesante para el negocio, sino lo que viene después. Por eso, es necesario automatizar esta fase del trabajo en la mayor medida. Optimizar para maximizar.
 
-Al final, de mi tiempo sólo un 15% podía dedicarlo realmente a analizar los datos relevantes para tomar decisiones; el resto se diluía en tareas repetitivas, ajustando procesos o buscando formas de optimarlos para destinar ese tiempo a actividades de mayor valor.
+Al final, de mi tiempo sólo un 15% podía dedicarlo realmente a analizar los datos relevantes para tomar decisiones; el resto se diluía en tareas repetitivas, ajustando procesos o buscando formas de optimarlos para destinar ese tiempo a actividades de mayor impacto.
 
 ##### El *core* del negocio
 
 En esos años aprendí tres cuestiones fundamentales:
-1. Las buenas soluciones tecnológicas sólo funcionan si los **datos son confiables**.
+1. Las buenas soluciones tecnológicas sólo funcionan si los **datos son confiables**[^1].
 2. Los datos confiables requieren un **flujo de trabajo robusto, pero también fácilmente escalable**.
 3. El mejor flujo de trabajo no depende en exclusiva de la tecnología, también de **entender** cómo se relacionan las fuentes de datos, los potenciales vectores de error y la forma de integrarlo todo correctamente.  
 
@@ -38,7 +38,7 @@ Centralizar las entradas de datos y diseñar flujos optimizados no sólo reduce 
 Entender cómo funcionan estos procesos internos — por ejemplo, en cómo la realidad es codificada en señales eléctricas a través del sensor y cómo es transformada en dato mediante la agregación del sistema controlador — es clave para hacernos las preguntas correctas. Ese es el primer paso: entender de qué manera se relacionan nuestros datos.
 El siguiente es **conocer a fondo nuestro negocio**: dónde estamos, a dónde queremos llegar y cómo podemos aprovechar nuestro recurso más valioso, el tiempo, para potenciar el segundo recurso más valioso, la información. *Diseñar cuidadosamente la ingeniería necesaria para integrar los datos de nuestro negocio es una estrategia vital*.  
 
-Mi objetivo es lograr una distribución eficiente del tiempo, transformándolo en un **esquema ideal 5-45-50**: dedicar sólo un 5% a la extracción, procesamiento y carga de datos; un 45% para analítica e inteligencia de negocio; y un 50% para desarrollo estratégico y resolución de problemas.  
+Mi objetivo es lograr una distribución eficiente del tiempo, transformándolo en un **esquema ideal 5-45-50**[^2]: dedicar sólo un 5% a la extracción, procesamiento y carga de datos; un 45% para analítica e inteligencia de negocio; y un 50% para desarrollo estratégico y resolución de problemas.  
 
 ##### El proceso
 
@@ -52,3 +52,6 @@ En un mercado con numerosas herramientas de integración disponibles, la clave e
 👉 **Diseñar un flujo de trabajo eficiente.** Un diseño bien pensado permite que los datos fluyan de manera coherente y escalable.  
 👉 **Entender las herramientas disponibles y su compatibilidad con nuestras necesidades.** Esto puede ser un reto en tiempo y esfuerzo, pero con mi ayuda y guía podrás descubrir el increíble potencial que ofrecen.
 
+[^1]: Que los datos sean coherentes, consistentes y precisos; que estén disponibles y  actualizados.
+
+[^2]: Es un esquema ideal en tanto que trata de transformar la distribución original 80-20 (donde el 20% del tiempo productivo se centra en actividades relacionadas con el análisis y las acciones estratégicas) en una <em>cuasi-paridad</em> en el peso de los tiempos, la mitad para tratamiento y análisis, y la otra mitad para desarrollo de negocio. 

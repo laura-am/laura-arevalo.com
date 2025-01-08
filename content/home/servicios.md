@@ -17,7 +17,7 @@ Llegados a este punto, te confesaré que la forma que tengo de gestionar mi part
 
 {{< dotted-box >}}
 
-    Automatización de tareas secundarias mediante asistentes y herramientas de soporte.
+    Automatización de tareas secundarias mediante soluciones <em>low-code</em> y <em>no-code</em>.
   
 {{< /dotted-box >}}
 
