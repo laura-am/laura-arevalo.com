@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{< dotted-box >}}
-Me llamo Laura y sé un poco de interrogar datos, de construir aplicaciones, y de automatizar esas tareas que, aunque necesarias, no son lo que más ~nos divierten~ valor generan en el día a día. Pero lo que más me fascina es <strong>OPTIMIZAR</strong>.
+Me llamo Laura y sé un poco de interrogar datos, de construir aplicaciones, y de automatizar esas tareas que, aunque necesarias, no son lo que más {{< strike >}}nos divierten{{< /strike >}} valor generan en el día a día. Pero lo que más me fascina es <strong>OPTIMIZAR</strong>.
 {{< /dotted-box >}}
 
 Confieso que siento una pulsión casi obsesiva por gestionar los recursos de forma eficiente. Aunque también hay un poco de placer en el diseño del proceso, entendiendo éste como espacio ideal donde creación y optimización se encuentran.
