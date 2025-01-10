@@ -18,9 +18,9 @@ Así, ni corta ni perezosa, un año más tarde cometí la temeridad de abandonar
 
 ##### 80-15-5
 
-En mi trabajo he podido observar que la mayor parte del tiempo (digamos, el 80%) estaba dedicado a la extracción y procesamiento de datos. Parte de la causa es la falta de un marco de trabajo bien definido. Muchos procesos no tienen una estructura clara o la integración entre fuentes es limitada, sobre todo, al inicio de la actividad o cuando al sector le falta maduración, y nos encontramos desarrollando nuestro trabajo iterando continuamente. En conclusión, **el flujo de trabajo se complica, se vuelve lento y poco eficiente**. 
+En mi trabajo he podido observar que la mayor parte del tiempo (digamos, el 80%) estaba dedicado a la extracción y procesamiento de datos. Parte de la causa es la falta de un marco de trabajo bien definido. Muchos procesos no tienen una estructura clara, o su diseño está limitado por las herramientas, la integración entre ellas, etc. Sobre todo, al inicio de la actividad o cuando al sector le falta maduración y nos encontramos desarrollando nuestro trabajo iterando continuamente. En conclusión, **el flujo de trabajo se complica, se vuelve lento y poco eficiente**. 
 
-Como ingeniera reconozco que me encanta esta parte del trabajo, pero no es lo más interesante para el negocio, sino lo que viene después. Por eso, es necesario automatizar esta fase del trabajo en la mayor medida. Optimizar para maximizar.
+Como ingeniera reconozco que me encanta esta parte del trabajo, pero no es lo más interesante para el negocio, sino lo que viene después. Por eso, es necesario automatizar esta fase del trabajo en la mayor medida. *Optimizar para maximizar*.
 
 Al final, de mi tiempo sólo un 15% podía dedicarlo realmente a analizar los datos relevantes para tomar decisiones; el resto se diluía en tareas repetitivas, ajustando procesos o buscando formas de optimarlos para destinar ese tiempo a actividades de mayor impacto.
 
@@ -31,7 +31,7 @@ En esos años aprendí tres cuestiones fundamentales:
 2. Los datos confiables requieren un **flujo de trabajo robusto, pero también fácilmente escalable**.
 3. El mejor flujo de trabajo no depende en exclusiva de la tecnología, también de **entender** cómo se relacionan las fuentes de datos, los potenciales vectores de error y la forma de integrarlo todo correctamente.  
 
-Centralizar las entradas de datos y diseñar flujos optimizados no sólo reduce el tiempo y los recursos necesarios para automatizar los procesos previos al análisis, sino que además asegura la calidad de la información y, con ello, la toma de decisiones de negocio mucho más acertadas.
+Centralizar las entradas de datos y diseñar flujos optimizados no sólo reduce el tiempo y los recursos necesarios para automatizar los procesos previos al análisis, sino que además asegura la calidad de la información y, con ello, la toma de decisiones más acertadas.
 
 ##### *Ad meliorem*
 
