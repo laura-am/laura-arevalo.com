@@ -13352,11 +13352,11 @@ details[open] summary {
 
 /* SHORTCODES STYLES */
 .dotted-box {
-  border: 1px solid #555a;
+  border: 1px solid #008AD7;
   padding: 12px;
   margin: 24px 0;
   border-radius: 2px;
-  box-shadow: 2px 2px 1px 1px #aaa;
+  box-shadow: 2px 2px  #008AD7;
   text-align: center; }
 
 .contact-section {
@@ -23664,11 +23664,11 @@ readers do not read off random characters that represent icons */
       font-size: 0.8rem; }
   /* SHORTCODES STYLES */
   .dotted-box {
-    border: 1px solid #555a;
+    border: 1px solid #008AD7;
     padding: 12px;
     margin: 24px 0;
     border-radius: 2px;
-    box-shadow: 2px 2px 1px 1px #aaa;
+    box-shadow: 2px 2px  #008AD7;
     text-align: center; }
   .contact-section {
     padding: 2rem;

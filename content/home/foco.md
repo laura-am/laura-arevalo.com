@@ -1,9 +1,10 @@
 ---
 title: "Dónde pongo el foco"
 _build:
-  render: always
-  publishResources: true
+  render: never
+  publishResources: false
 weight: 2
+draft: true
 ---
 
 Ayudo a emprendedores/as, empresas y equipos centrando la atención en:

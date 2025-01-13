@@ -6,24 +6,36 @@ _build:
 weight: 3
 ---
 
-Llegados a este punto, te confesaré que la forma que tengo de gestionar mi particular obsesión es ofreciendo los siguientes servicios:
+Llegados a este punto te preguntarás cómo te puedo ayudar. Pues, ayudo a equipos y profesionales desarrollando mi particular pasión con los siguientes servicios: 
+
 
 
 {{< dotted-box >}}
 
-    Diseño de procesos ETL/ELT y automatización de <em>pipelines</em>.
+    Integración y procesamiento de datos mediante el sistema ETL (o ELT), que consiste en <strong>E</strong>xtraer los datos de diferentes fuentes, <strong>T</strong>ransformarlos según las necesidades de tu negocio y cargarlos (<em><strong>L</strong>oad</em>) para ser almacenados o analizados.
   
 {{< /dotted-box >}}
 
 {{< dotted-box >}}
 
-    Automatización de tareas secundarias mediante soluciones <em>low-code</em> y <em>no-code</em>.
+    Creo aplicaciones de analítica o visualización de los datos necesarios para detectar tus <em>insights</em>.
   
 {{< /dotted-box >}}
 
 {{< dotted-box >}}
 
-    Diseño y desarrollo de aplicaciones de analítica de datos.
-  
+    Gestión y optimización de bases de datos.
+
 {{< /dotted-box >}}
 
+{{< dotted-box >}}
+
+    Migración de sistemas e implementación de soluciones de almacenamiento basado en la nube.
+
+{{< /dotted-box >}}
+
+{{< dotted-box >}}
+
+    <em>Bonus track</em>: Desarrollo de automatización de tareas y procesos mediante herramientas <em>no-code</em>.
+
+{{< /dotted-box >}}
