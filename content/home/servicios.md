@@ -3,7 +3,7 @@ title: "Servicios"
 _build:
   render: always
   publishResources: true
-weight: 3
+weight: 2
 ---
 
 Llegados a este punto te preguntarás cómo te puedo ayudar. Pues, ayudo a equipos y profesionales desarrollando mi particular pasión con los siguientes servicios: 
