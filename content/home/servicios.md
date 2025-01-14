@@ -5,8 +5,15 @@ _build:
   publishResources: true
 weight: 2
 ---
+{{< rawhtml >}}
 
-Llegados a este punto te preguntarás qué es exactamente lo que hago. Mi labor consiste en apoyar a equipos y profesionales con los siguientes servicios: 
+<h2 style="line-height: 1.3; text-align: left; color: #008AD7">La inversión en un buen diseño del <em>data workflow</em> transforma el tiempo en resultados</h2>
+
+Planifica, diseña y conoce tu modelo de datos para agilizar los procesos operativos que te permitan <span style="color: #008AD7">responder con rapidez ante eventos, ahorrar en recursos y adaptarte con fluidez a las demandas del mercado.</span>
+
+{{< /rawhtml >}}
+
+Mi objetivo consiste en apoyar a equipos y profesionales a conseguir estos resultados con los siguientes servicios: 
 
 {{< dotted-box >}}
 
@@ -16,19 +23,13 @@ Llegados a este punto te preguntarás qué es exactamente lo que hago. Mi labor 
 
 {{< dotted-box >}}
 
-    Creo aplicaciones de analítica o visualización de los datos necesarios para detectar tus <em>insights</em>.
+    Creación de aplicaciones de analítica o visualización de los datos necesarios para detectar tus <em>insights</em>.
   
 {{< /dotted-box >}}
 
 {{< dotted-box >}}
 
-    Gestión y optimización de bases de datos.
-
-{{< /dotted-box >}}
-
-{{< dotted-box >}}
-
-    Migración de sistemas e implementación de soluciones de almacenamiento basado en la nube.
+    Migración de sistemas e implementación de soluciones de almacenamiento basado en la nube. Gestión y optimización de bases de datos.
 
 {{< /dotted-box >}}
 

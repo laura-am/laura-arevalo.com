@@ -8,7 +8,7 @@ Explorandum es el espacio en el que desarrollo mi profesión. Es el *framework* 
 En este espacio canalizo una pulsión por gestionar los recursos de forma eficiente a través del diseño optimizado de la información.
 
 
-##### Las preguntas-guía
+##### Un poco sobre mí
 
 Estudié Ingeniería Industrial tras abandonar el grado de Física y anteponer la pregunta de *cómo* a la de *por qué*. Paradojas de la vida, tras terminar la carrera volvió a asomar la dichosa pregunta en una de sus peculiares variantes: *¿Y por qué no?* 
 
