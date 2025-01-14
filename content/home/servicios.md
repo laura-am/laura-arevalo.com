@@ -6,9 +6,7 @@ _build:
 weight: 2
 ---
 
-Llegados a este punto te preguntarás cómo te puedo ayudar. Pues, ayudo a equipos y profesionales desarrollando mi particular pasión con los siguientes servicios: 
-
-
+Llegados a este punto te preguntarás qué es exactamente lo que hago. Mi labor consiste en apoyar a equipos y profesionales con los siguientes servicios: 
 
 {{< dotted-box >}}
 

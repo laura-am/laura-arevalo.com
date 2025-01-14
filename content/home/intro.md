@@ -3,11 +3,10 @@ title = 'Explorandum'
 weight = 1
 +++
 
-Explorandum es el espacio en el que desarrollo mi profesión. Es el framework que utilizo como ingeniera y analista para acceder e interrogar los datos del negocio.    
+Explorandum es el espacio en el que desarrollo mi profesión. Es el *framework* que utilizo como ingeniera y analista para acceder e interpretar los datos del negocio.    
 
-En este espacio doy rienda suelta a una pulsión casi obsesiva por gestionar los recursos de forma eficiente.  
+En este espacio canalizo una pulsión por gestionar los recursos de forma eficiente a través del diseño optimizado de la información.
 
-Aqui encontrarás un lugar para el diseño optimizado
 
 ##### Las preguntas-guía
 
@@ -17,7 +16,7 @@ Así, ni corta ni perezosa, un año más tarde cometí la temeridad de abandonar
 
 ##### 80-15-5
 
-En mi trabajo he podido observar que la mayor parte del tiempo (digamos, el 80%) estaba dedicado a la extracción y procesamiento de datos. Parte de la causa es la falta de un marco de trabajo bien definido. Muchos procesos no tienen una estructura clara, o su diseño está limitado por las herramientas, la integración entre ellas, etc. Sobre todo, al inicio de la actividad o cuando al sector le falta maduración y nos encontramos desarrollando nuestro trabajo iterando continuamente. En conclusión, **el flujo de trabajo se complica, se vuelve lento y poco eficiente**. 
+En mi trabajo he podido observar que la mayor parte del tiempo (digamos, el 80%[^1]) estaba dedicado a la extracción y procesamiento de datos. Parte de la causa es la falta de un marco de trabajo bien definido. Muchos procesos no tienen una estructura clara, o su diseño está limitado por las herramientas, la integración entre ellas, etc. Sobre todo, al inicio de la actividad o cuando al sector le falta maduración y nos encontramos desarrollando nuestro trabajo iterando continuamente. En conclusión, **el flujo de trabajo se complica, se vuelve lento y poco eficiente**. 
 
 Como ingeniera reconozco que me encanta esta parte del trabajo, pero no es lo más interesante para el negocio, sino lo que viene después. Por eso, es necesario automatizar esta fase del trabajo en la mayor medida. *Optimizar para maximizar*.
 
@@ -26,7 +25,7 @@ Al final, de mi tiempo sólo un 15% podía dedicarlo realmente a analizar los da
 ##### El *core* del negocio
 
 En esos años aprendí tres cuestiones fundamentales:
-1. Las buenas soluciones tecnológicas sólo funcionan si los **datos son confiables**[^1].
+1. Las buenas soluciones tecnológicas sólo funcionan si los **datos son confiables**[^2].
 2. Los datos confiables requieren un **flujo de trabajo robusto, pero también fácilmente escalable**.
 3. El mejor flujo de trabajo no depende en exclusiva de la tecnología, también de **entender** cómo se relacionan las fuentes de datos, los potenciales vectores de error y la forma de integrarlo todo correctamente.  
 
@@ -44,6 +43,6 @@ Mi objetivo es lograr una distribución eficiente del tiempo, transformándolo e
 Creo en la necesidad de estructurar los procesos que involucran la adquisición masiva de datos, especialmente en tiempo real, de forma que puedan automatizarse y escalarse. Esto no solo optimiza recursos, sino que reduce la carga de trabajo de los técnicos que deben concentrarse en otras tareas más decisivas.    
 Las herramientas necesarias ya existen en el mercado; ese aspecto está cubierto. Sin embargo, diseñar un modelo de trabajo ágil y flexible, capaz de iterar procesos de forma rápida y consistente, es esencial para preparar el terreno para la evolución del negocio.
 
-[^1]: Que los datos sean coherentes, consistentes y precisos; que estén disponibles y  actualizados.
+[^1]: trata de ser una estimación basada en mi experiencia, pero no cae muy lejos del 82% que pudo observar el IDC en una de sus([encuestas](https://blogs.idc.com/2018/08/23/time-crunch-equalizing-time-spent-on-data-management-vs-analytics/)).
 
- 
+[^2]: Que los datos sean coherentes, consistentes y precisos; que estén disponibles y  actualizados.
