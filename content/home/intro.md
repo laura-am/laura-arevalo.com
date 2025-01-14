@@ -43,6 +43,6 @@ Mi objetivo es lograr una distribución eficiente del tiempo, transformándolo e
 Creo en la necesidad de estructurar los procesos que involucran la adquisición masiva de datos, especialmente en tiempo real, de forma que puedan automatizarse y escalarse. Esto no solo optimiza recursos, sino que reduce la carga de trabajo de los técnicos que deben concentrarse en otras tareas más decisivas.    
 Las herramientas necesarias ya existen en el mercado; ese aspecto está cubierto. Sin embargo, diseñar un modelo de trabajo ágil y flexible, capaz de iterar procesos de forma rápida y consistente, es esencial para preparar el terreno para la evolución del negocio.
 
-[^1]: trata de ser una estimación basada en mi experiencia, pero no cae muy lejos del 82% que pudo observar el IDC en una de sus([encuestas](https://blogs.idc.com/2018/08/23/time-crunch-equalizing-time-spent-on-data-management-vs-analytics/)).
+[^1]: Trata de ser una estimación basada en mi experiencia, pero no cae muy lejos del 82% que pudo observar el IDC en una de sus ([encuestas](https://blogs.idc.com/2018/08/23/time-crunch-equalizing-time-spent-on-data-management-vs-analytics/)).
 
 [^2]: Que los datos sean coherentes, consistentes y precisos; que estén disponibles y  actualizados.
