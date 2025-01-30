@@ -3,7 +3,6 @@ title: "Servicios"
 _build:
   render: never
   publishResources: false
-weight: 2
 draft: true
 ---
 {{< rawhtml >}}
